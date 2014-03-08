@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 $councillors = array();
 #copied alot from john Handelaar's https://classic.scraperwiki.com/scrapers/iecouncillorsphptemplate/
